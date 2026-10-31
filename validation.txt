@@ -1,0 +1,9 @@
+Prior execution validation (2026-10-28):
+PASS student/201_linear_svm.ipynb (4.8s)
+PASS student/202_dual_svm.ipynb (4.4s)
+PASS student/203_kernel_svm.ipynb (22.7s)
+PASS student/204_soft_margin_svm.ipynb (8.2s)
+
+Student notebooks were executed from clean Python kernels, including the real-data five-fold grid searches. Distributed copies remain unexecuted with intentionally incomplete tasks and reminder checks. Static plots were validated; opt-in widgets were not part of that batch.
+
+Repository preparation adds launch badges only; numerical modeling was not rerun.
